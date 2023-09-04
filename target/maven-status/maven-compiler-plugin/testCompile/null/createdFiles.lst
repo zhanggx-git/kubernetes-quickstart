@@ -1,0 +1,4 @@
+org/acme/GreetingResourceIT.class
+org/acme/GreetingResourceTest.class
+org/acme/rest/json/FruitResourceIT.class
+org/acme/rest/json/FruitResourceTest.class
